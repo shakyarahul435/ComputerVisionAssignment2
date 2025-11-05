@@ -1,0 +1,11 @@
+# Cifar-10 dataset
+./data/
+
+# Virtual environment
+./virenv/
+
+# Zips for submission of assignments
+./zips/
+
+# Added coco128 to git since its size is small and useful for quick tests
+# zips contains large zip files that I used while submitting my assignments
